@@ -1,0 +1,7 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore build directories
+target/
+bin/
